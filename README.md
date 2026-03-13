@@ -1,4 +1,4 @@
-# <p align="center">✨ بوت الأحاديث النبوية ✨</p>
+# <p align="center">✨HAMZA ROOT ✨</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue?style=for-the-badge" />
